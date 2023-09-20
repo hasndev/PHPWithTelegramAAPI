@@ -1,7 +1,7 @@
 Certainly! Here's a sample `README.md` file that you can use for your project on GitHub. You can customize it with your project-specific information and details.
 
 ```markdown
-# Telegram Bot Project
+# PHP With Telegram API Project
 
 This project allows you to send messages to a Telegram group using a web form and a Telegram bot. It uses PHP and the Telegram Bot API to send messages.
 
